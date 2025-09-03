@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple E-commerce Store</title>
+  <link rel="stylesheet" href="E-commerceStore.css">
+  <script defer src="E-commerceStore.js"></script>
+</head>
+<body>
+  <header>
+    <h1>My Store</h1>
+    <div id="cart-btn">🛒 Cart (<span id="cart-count">0</span>)</div>
+  </header>
+
+  <main>
+    <section id="products" class="products"></section>
+    <aside id="cart" class="cart hidden">
+      <h2>Your Cart</h2>
+      <ul id="cart-items"></ul>
+      <p id="total">Total: $0</p>
+      <button id="clear-cart">Clear Cart</button>
+    </aside>
+  </main>
+</body>
+</html>
