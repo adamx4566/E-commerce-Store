@@ -16,5 +16,5 @@ It allows users to browse products, add them to the cart, remove items, and see 
 - CSS3  
 - Vanilla JavaScript
 
-<img src="Blog CMS/pictures/BlogCMS.png" alt="E-commerce Store preview" width="1000">
+<img src="E-commerce Store/pictures/E-commerceStore.png" alt="E-commerce Store preview" width="1000">
 
