@@ -14,4 +14,7 @@ It allows users to browse products, add them to the cart, remove items, and see 
 ## Technologies
 - HTML5  
 - CSS3  
-- Vanilla JavaScript  
+- Vanilla JavaScript
+
+<img src="Blog CMS/pictures/BlogCMS.png" alt="E-commerce Store preview" width="1000">
+
